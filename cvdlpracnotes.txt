@@ -6,4 +6,4 @@ Gradient Descent :- AN optimization tecchnique
                    2)The cost function evaluates the difference between the actual and predicted outputs & used to optimize the weight and biases
                    3)iteratively adjusts model parameters
 Logistic Regression:-1)statistical model that models the log-odds of an event as a linear combination of one or more independent variables
-		     2)used for predicting the probability of a binary outcome
+		     2)used for predicting the probability of a binary outcome 
