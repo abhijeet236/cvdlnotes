@@ -7,3 +7,6 @@ Gradient Descent :- AN optimization tecchnique
                    3)iteratively adjusts model parameters
 Logistic Regression:-1)statistical model that models the log-odds of an event as a linear combination of one or more independent variables
 		     2)used for predicting the probability of a binary outcome 
+
+
+commit from borate
